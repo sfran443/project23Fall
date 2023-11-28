@@ -1,0 +1,32 @@
+/* DEVELOPER Steven Francisco, IS117-003, Fall 2023 */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+div {
+    align-content:justify;
+
+}
+div:after {
+    content: "";
+    display: inline-block;
+    width: 100%;
+}
+
+
+body {
+    /*background-image: url("https://storage.googleapis.com/pai-images/40eae9997dd04b0c8c7dab47bdac7e0f.jpeg");
+    background-size: 100%;
+    */
+    background-color: #181818;
+}
+.navbar{
+    background-color: #E2DED0;
+}
